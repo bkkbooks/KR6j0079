@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0079/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂瑜伽護摩儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0908.xml
+    old_id: T18n0908
+hash: sha256:32f578eb5c5c9e9bf49fde4b74da296261dc4965bc9bee85a650e21d6b9a5605

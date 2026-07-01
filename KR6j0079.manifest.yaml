@@ -1,0 +1,57 @@
+canonical_identifier: bkk:krp/KR6j0079/v1
+canonical_location: https://kanripo.org/bkk/KR6j0079/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛頂瑜伽護摩儀軌
+  identifiers:
+    alt_id:
+    - T18n0908
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0908.xml
+    old_id: T18n0908
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 乙
+  label: 乙
+  source_xml_id: wit5
+- short: 甲
+  label: 甲
+  source_xml_id: wit4
+- short: 丙
+  label: 丙
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0079_000.yaml, hash: 'sha256:32f578eb5c5c9e9bf49fde4b74da296261dc4965bc9bee85a650e21d6b9a5605'}
+  - {seq: 1, filename: KR6j0079_001.yaml, hash: 'sha256:3a6dea80603dc300245e80c016a9465608407f02a62de9ed42eb12090d0b7e56'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0079_001.markers.yaml, hash: 'sha256:689c6d559b56e8799b0cc49d9c71a153da6b171a6f59f6bdb2f8cd11e504a7b2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0079_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4314
+  label: 金剛頂瑜伽護摩儀軌一卷
+  type: juan
+  level: 1
+hash: sha256:a4c642302ce1d3796113aefc4882ed7a1edc1188a93acaa632e5a7d85147d2ee
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
