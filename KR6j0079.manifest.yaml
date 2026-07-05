@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0079_000.yaml, hash: 'sha256:32f578eb5c5c9e9bf49fde4b74da296261dc4965bc9bee85a650e21d6b9a5605'}
-  - {seq: 1, filename: KR6j0079_001.yaml, hash: 'sha256:3a6dea80603dc300245e80c016a9465608407f02a62de9ed42eb12090d0b7e56'}
+  - {seq: 1, filename: KR6j0079_001.yaml, hash: 'sha256:b27ffbe20b67e1520b5ffa36ad7fd53e3634422eef0fb96a2597e9521be2a996'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0079_001.markers.yaml, hash: 'sha256:689c6d559b56e8799b0cc49d9c71a153da6b171a6f59f6bdb2f8cd11e504a7b2'}
+  - {seq: 0, role: markers, filename: assets/KR6j0079_000.markers.yaml, hash: 'sha256:bba67979b267039c463061738108ea308c2a08ec73932b277515e0f438218c07'}
+  - {seq: 1, role: markers, filename: assets/KR6j0079_001.markers.yaml, hash: 'sha256:16010e052db82d721bf616f221d4969b76a09e064aadd9cf43cba5df608374dc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 金剛頂瑜伽護摩儀軌一卷
   type: juan
   level: 1
-hash: sha256:a4c642302ce1d3796113aefc4882ed7a1edc1188a93acaa632e5a7d85147d2ee
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b97c917f4cf36e388df8f55ecbed218b0fdd72c2535842ac7a8f73707e305095
